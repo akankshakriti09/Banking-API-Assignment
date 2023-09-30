@@ -7,7 +7,7 @@
 
 * GET Branch List http://127.0.0.1:8000/branch-list/ - gets the list of all branches, page-wise
 
-        ##### query params
+        #### query params
 
         Search from branch name 
         Example: /branch-list?branch=branch_name - http://127.0.0.1:8000/branch-list/?branch=kolkata&main
